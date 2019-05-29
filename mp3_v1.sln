@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mp3_v1", "mp3_v1\mp3_v1.csproj", "{A3331666-18B5-4C2B-BA6C-98C44AA6DE3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSlider", "mp3_v1\bin\Debug\ColorSlider\ColorSlider.csproj", "{16E224DC-7FF0-4908-8318-D6A3AC2E797A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3331666-18B5-4C2B-BA6C-98C44AA6DE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3331666-18B5-4C2B-BA6C-98C44AA6DE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3331666-18B5-4C2B-BA6C-98C44AA6DE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3331666-18B5-4C2B-BA6C-98C44AA6DE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E224DC-7FF0-4908-8318-D6A3AC2E797A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E224DC-7FF0-4908-8318-D6A3AC2E797A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E224DC-7FF0-4908-8318-D6A3AC2E797A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E224DC-7FF0-4908-8318-D6A3AC2E797A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C917432-4DA3-43C4-BD8F-27C36D7F1AAE}
+	EndGlobalSection
+EndGlobal
